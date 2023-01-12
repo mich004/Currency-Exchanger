@@ -1,0 +1,1 @@
+apikey  = "https://v6.exchangerate-api.com/v6/83879723f4a68b56a7b1f0ed/latest/USD"
